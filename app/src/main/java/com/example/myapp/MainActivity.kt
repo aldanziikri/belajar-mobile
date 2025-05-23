@@ -26,13 +26,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        val button: Button = findViewById(R.id.button_view)
-        val loadingTxt: TextView = findViewById(R.id.loading_text)
-
-        button.setOnClickListener({
-            hitung()
-            loadingTxt.text = this.number.toString()
-        })
 
     }
 }
