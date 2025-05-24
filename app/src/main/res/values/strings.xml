@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyApp</string>
+    <string name="text_panjang">Masukkan Panjang</string>
+    <string name="text_lebar">Masukkan Lebar</string>
+    <string name="text_tinggi">Masukkan Tinggi</string>
+
 </resources>
